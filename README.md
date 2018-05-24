@@ -33,9 +33,12 @@ for all proteins.
 The numbering that is used by Rosetta gives numbers only to residues that are present in the pdb-structure.
 This numbering often differes from our consecutive numbering and that used with pdb-structures.
 
+### ProTherm.dat
+At the time of adding this file, Protherm database does not seem to be accessible. This file was earlier downloaded from Protherm and it should contain all data, that was available at that time. Unfortunately, in my knowledge, further descriptions of this file were only available at the site, wich is not accessible at the moment.
+
 ## Copyright
 
-### ddg_protherm.csv and ddg_protherm.mat
+### ddg_protherm.csv, ddg_protherm.mat and ProTherm.dat.gz
 This data is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ### minFunc
@@ -57,7 +60,7 @@ Copyright 2017-2018 Emmi Jokinen
    limitations under the License.
 
 ## References
-\[1\] Jokinen, E., Heinonen, M., and Lähdesmäki, H. *mGPfusion: Predicting protein stability changes with Gaussian process kernel learning and data fusion*. (submitted)
+\[1\] Jokinen, E., Heinonen, M., and Lähdesmäki, H. *mGPfusion: Predicting protein stability changes with Gaussian process kernel learning and data fusion*. (accepted)
 
 \[2\] Kumar MD, Bava KA, Gromiha MM, Parabakaran P, Kitajima K, Uedaira H, Sarai A. (2006). [*ProTherm and ProNIT: thermodynamic databases for proteins and protein-nucleic acid interactions*](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=16381846&dopt=Abstract). Nuleic Acids Res., 34:D204-6, Database issue
 
